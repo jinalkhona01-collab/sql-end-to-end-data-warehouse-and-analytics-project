@@ -13,7 +13,7 @@ This project involves:
 1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture **Bronze, Silver, and Gold** layers.
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries. (Star Schema)
-4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
+4. **Analytics & Reporting**: Creating SQL-based reports, dashboards for actionable insights and Power BI overview dashboard.
 ---
 # 🏗️ Data Architecture
 
@@ -45,7 +45,8 @@ All tools and resources used are **free and open-source**:
 
 - 🗂️ **Datasets:** ERP and CRM (CSV files)  
 - 🧱 **PostgreSQL:** Database hosting environment  
-- 💻 **pgAdmin / DBeaver:** Database management interface  
+- 💻 **pgAdmin / DBeaver:** Database management interface
+- 💻  **Power BI:** Visualization
 - 🧩 **Draw.io:** Used for data flow and architecture design  
 - 🗒️ **Notion:** Used for project planning and documentation
  ---
@@ -99,6 +100,11 @@ The analysis followed a structured approach, covering various aspects of the dat
 
 
 ---
+## Power Bi Overview 
+
+<img width="1573" height="880" alt="image" src="https://github.com/user-attachments/assets/d1d6d08e-04db-4bf7-8a6a-135005117595" />
+
+----
 
 ### License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
